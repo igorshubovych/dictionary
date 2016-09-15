@@ -41,14 +41,11 @@
 
 ## C
 
-* **callback function** TODO
-* **callback** TODO
-* **candidate recommendation (CR)** TODO
-* **canonical equivalence** TODO
-* **cascade** TODO
-* **cell** TODO
-* **cellpadding** TODO
-* **cellspacing** TODO
+* [**callback**](./DICTIONARY.md#callback)
+* [**candidate recommendation (CR)**](./DICTIONARY.md#candidate-recommendation-cr)
+* [**canonical**](./DICTIONARY.md#canonical)
+* [**cascade**](./DICTIONARY.md#cascade)
+* [**cell**](DICTIONARY.md#cell)
 * **character reference** TODO
 * **checkbox** — TODO
 * **child** TODO
