@@ -156,6 +156,7 @@
 * **global symbol registry** TODO
 * **graceful degradation** - TODO
 * **gradient** TODO
+* **graphic user interface (GUI)**
 * **grid layout** TODO
 * **grid** TODO
 
